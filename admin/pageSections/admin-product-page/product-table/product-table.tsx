@@ -43,8 +43,6 @@ const ProductTable = ({ data }) => {
 
     const onCreate = async (value) => {
         console.log(value);
-        //     await categoryService.categoryCreate({ data: value });
-        // };
     };
 
     return (
